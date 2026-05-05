@@ -1,4 +1,4 @@
-# ♟Chess Engine with AI Opponent (Python Flask) -_-
+# ♟Chess Engine with AI Opponent (Python Flask)  -_-
 
 A web-based chess engine built with Python (Flask) and vanilla HTML/CSS/JS.
 It combines backend chess logic and API routes with a styled UI for interactive play and AI integration.
