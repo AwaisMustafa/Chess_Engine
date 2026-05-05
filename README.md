@@ -3,6 +3,10 @@
 A web-based chess engine built with Python (Flask) and vanilla HTML/CSS/JS.
 It combines backend chess logic and API routes with a styled UI for interactive play and AI integration.
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="Chess Engine Screenshot" width="600">
+</p>
+
 ---
 
 ## Features
